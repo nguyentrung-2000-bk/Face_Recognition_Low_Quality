@@ -1,0 +1,12 @@
+pytorch-lightning==1.4.4
+tqdm
+bcolz
+prettytable
+menpo
+mxnet
+opencv-python==4.5.5.64
+
+scikit-image
+matplotlib
+pandas
+scikit-learn
